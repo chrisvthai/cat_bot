@@ -4,10 +4,24 @@
 	"description": "Cat pics!!! :3",
 	"main": "bot.js",
 	"author": "christhaifood",
+	"scripts": {
+		"start": "node bot.js"
+	},
 	"repository": {
 		"type": "git",
+		"url": "git+https://github.com/chrisvthai/catpic_bot.git"
 	},
+	"keywords": [
+		"heroku",
+		"discord.js"
+	],
+	"author": "Chris Thai",
 	"dependencies": {
 		"discord.js": "^11.3.2"
+	},
+	"homepage": "https://github.com/chrisvthai/catpic_bot#readme",
+	"engines": {
+		"node": "*",
+		"npm": "*"
 	}
 }
