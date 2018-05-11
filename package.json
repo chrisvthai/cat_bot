@@ -1,0 +1,13 @@
+{
+	"name": "catpic-bot",
+	"verson": "1.0.0",
+	"description": "Cat pics!!! :3",
+	"main": "bot.js",
+	"author": "christhaifood",
+	"repository": {
+		"type": "git",
+	},
+	"dependencies": {
+		"discord.js": "^11.3.2"
+	}
+}
