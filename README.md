@@ -8,14 +8,14 @@ So after some quick work, here's a catpic dispenser!
 
 ## Commands
 A Discord bot typically works by responding to user commands in the form of text messages to Discord chat channels. Here are the
-commands currently supported by my lovely catpic-bot.
-`!help` Outputs info on how to use the bot.
-`!hi` Outputs a hi in response.
-`!server` Outputs various information about the current Discord server
-`!catpic` Catpics!!!!!!!!!!!!!!!
+commands currently supported by my lovely catpic-bot.  
+`!help` Outputs info on how to use the bot.  
+`!hi` Outputs a hi in response.  
+`!server` Outputs various information about the current Discord server.  
+`!catpic` Catpics!!!!!!!!!!!!!!!  
 
 Enjoy the catpic dispenser!
 
 ![alt text][logo]
 
-[logo]: https://github.com/chrisvthai/catpic_bot/pics/To-infinity-and-beyond.jpeg "To infinity and beyond!"
+[logo]: https://raw.githubusercontent.com/chrisvthai/catpic_bot/master/pics/To-infinity-and-beyond.jpeg "To infinity and beyond!"
