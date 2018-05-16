@@ -9,6 +9,6 @@ module.exports = {
 		var num = Math.floor(Math.random() * files.length);
 		var filename = files[num];
 	
-		message.channel.send('Here you go! :cat:', {files: [`pics/${filename}`]});
+		message.channel.send(`${message.author}\nHere you go! :cat:`, {files: [`pics/${filename}`]});
 	}
 }

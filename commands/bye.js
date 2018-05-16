@@ -3,6 +3,6 @@ module.exports = {
 	description: 'Ugh, good riddance!',
 	usage: '!bye',
 	execute(message, args) {
-		message.channel.send('Bye loser! :cat:');
+		message.channel.send(`${message.author}\nBye loser! :cat:`);
 	}
 }

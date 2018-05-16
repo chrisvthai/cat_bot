@@ -1,12 +1,12 @@
 const {prefix} = require('../auth.json');
 
 module.exports = {
-    name: 'help',
-    description: 'List all of my commands or info about a specific command.',
-    usage: '!help or !help <cmd>',
+    name: 'owstats',
+    description: 'Get your overwatch stats here!',
+    usage: '!owstats or !owstats <hero>',
     execute(message, args) {
         const {commands} = message.client;
-        const data = [message.author];
+        const data = [];
 
         if (!args.length) {
         	data.push('Here\'s as list of all my commands :cat::');

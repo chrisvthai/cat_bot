@@ -3,6 +3,6 @@ module.exports = {
 	description: 'Giff server info!',
 	usage: '!server',
 	execute(message, args) {
-		message.channel.send(`This server's name is: ${message.guild.name}!\nTotal members: ${message.guild.memberCount}`);
+		message.channel.send(`${message.author}\nThis server's name is: ${message.guild.name}!\nTotal members: ${message.guild.memberCount}`);
 	}
 }
