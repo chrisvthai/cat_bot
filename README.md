@@ -1,6 +1,6 @@
-# catpic_bot
+# cat_bot
 ## Overview
-A Discord chatbot running multiple commands such as displaying server info, but more notably dispenses random cat pics in chat channels.
+A Discord chatbot running multiple commands such as displaying server info, but most notably dispenses random cat pics in chat channels.
 I got the idea for this from a combination of 
 1. I wanted some practice with Javascript, specifically with Node.js
 2. I use Discord everyday, and the main Discord I use to communicate with a bunch of my gaming friends is cat-themed for some reason.
@@ -14,8 +14,9 @@ commands currently supported by my lovely catpic-bot.
 `!hi` Outputs a hi in response.  
 `!server` Outputs various information about the current Discord server.  
 `!catpic` Catpics!!!!!!!!!!!!!!!  
+`!dict` Look up a word on the Oxford dictionary (hopefully the API request goes through)  
 
-Enjoy the catpic dispenser!
+Enjoy the catpic dispenser (that is mainly what you're using it for right?)!
 
 ![alt text][logo]
 
