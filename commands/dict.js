@@ -82,8 +82,7 @@ module.exports = {
         			var body_json = JSON.parse(body);
 
         			while (i < body_json.results[0].lexicalEntries.length) {
-    
-        				data.push(`${i+1}. ${body_json.results[0].lexicalEntries[i].entries[0].senses[0].definitions[0]}`);
+        				data.push(`${i+1}. ${body_json.results[0].lexicalEntries[i].entries[0].senses[0].definitions}`);
         				i++;	
         			}
         			data.push('\`\`\`')
