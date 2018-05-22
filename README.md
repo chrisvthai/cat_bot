@@ -12,7 +12,7 @@ A Discord bot typically works by responding to user commands in the form of text
 commands currently supported by my lovely catpic-bot.  
 `!help` Outputs info on how to use the bot.  
 `!hi` Outputs a hi in response.  
-`!bye` Outputs a bye in response.
+`!bye` Outputs a bye in response.  
 `!server` Outputs various information about the current Discord server.  
 `!catpic` Catpics!!!!!!!!!!!!!!! Literally just sends a random catpic in its catpic folder, curated by my friends and I.  
 `!dict` Look up a word on the Oxford dictionary. Queries the Oxford Dictionaries API.
