@@ -3,6 +3,7 @@ module.exports = {
 	name: 'dict',
 	description: 'Find out what a word means by looking up Oxford Dictionary (also for when Bobby blanks on a word b/c he\'s dumb!',
 	usage: '!dict <word>',
+        examples: '\n!dict cat',
 	execute(message, args) {
 		var request = require('request');
 		const data = [];

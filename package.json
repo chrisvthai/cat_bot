@@ -17,7 +17,9 @@
 	],
 	"dependencies": {
 		"discord.js": "^11.3.2",
-		"request": "^2.86.0"
+		"request": "^2.86.0",
+		"sqlite": "^2.9.2",
+		"sqlite3": "^4.0.0"
 	},
 	"homepage": "https://github.com/chrisvthai/catpic_bot#readme",
 	"engines": {
