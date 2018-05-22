@@ -15,7 +15,7 @@ commands currently supported by my lovely catpic-bot.
 `!bye` Outputs a bye in response.  
 `!server` Outputs various information about the current Discord server.  
 `!catpic` Catpics!!!!!!!!!!!!!!! Literally just sends a random catpic in its catpic folder, curated by my friends and I.  
-`!dict` Look up a word on the Oxford dictionary. Queries the Oxford Dictionaries API.
+`!dict` Look up a word on the Oxford dictionary. Queries the Oxford Dictionaries API.  
 `!link` Link a Steam, Blizzard, League of Legends, Fortnite, etc. account to your Discord account. Uses SQLite to accomplish keeping a database. 
 
 Enjoy the bot and its cat pic dispensing capabilities!
