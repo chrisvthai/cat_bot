@@ -5,18 +5,20 @@ I got the idea for this from a combination of
 1. I wanted some practice with Javascript, specifically with Node.js
 2. I use Discord everyday, and the main Discord I use to communicate with a bunch of my gaming friends is cat-themed for some reason.
 
-So after some quick work, here's a catpic dispenser!
+Here's an overview of the cat_bot!
 
 ## Commands
 A Discord bot typically works by responding to user commands in the form of text messages to Discord chat channels. Here are the
 commands currently supported by my lovely catpic-bot.  
 `!help` Outputs info on how to use the bot.  
 `!hi` Outputs a hi in response.  
+`!bye` Outputs a bye in response.
 `!server` Outputs various information about the current Discord server.  
-`!catpic` Catpics!!!!!!!!!!!!!!!  
-`!dict` Look up a word on the Oxford dictionary (hopefully the API request goes through)  
+`!catpic` Catpics!!!!!!!!!!!!!!! Literally just sends a random catpic in its catpic folder, curated by my friends and I.  
+`!dict` Look up a word on the Oxford dictionary. Queries the Oxford Dictionaries API.
+`!link` Link a Steam, Blizzard, League of Legends, Fortnite, etc. account to your Discord account. Uses SQLite to accomplish keeping a database. 
 
-Enjoy the catpic dispenser (that is mainly what you're using it for right?)!
+Enjoy the bot and its cat pic dispensing capabilities!
 
 ![alt text][logo]
 
