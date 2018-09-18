@@ -22,4 +22,4 @@ Enjoy the bot and its cat pic dispensing capabilities!
 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/chrisvthai/catpic_bot/master/pics/To-infinity-and-beyond.jpeg "To infinity and beyond!"
+[logo]: https://raw.githubusercontent.com/chrisvthai/cat_bot/master/example.PNG "Cats!"
